@@ -1,5 +1,6 @@
 # Bikesharing Analysis
 Module 14 Challenge - Bikesharing Analysis
+[link to dashboard](https://public.tableau.com/app/profile/nicole.harrison3746/viz/Mod14Challenge_16492968155770/BikesharingStory?publish=yes)
 
 ## Overview of the Bikesharing Analysis Project
 The Bikesharing Analysis project was created to assess bikesharing data from NYC in order to understand trends and opportunities for a bikesharing program in Des Moines. The goal was to utilize data from the NYC bikesharing program to develop a business proposal for the program in Des Moines. The analysis focused on key components such as gender, peak hours, start and stop times, duration, and user type.
